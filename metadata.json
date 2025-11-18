@@ -1,0 +1,5 @@
+{
+  "name": "TDCReader - Đọc Truyện AI",
+  "description": "Một ứng dụng đọc tiểu thuyết trực tuyến cho phép người dùng đọc, tìm kiếm truyện và chuyển đổi các chương tiểu thuyết thành truyện tranh hoặc clip ngắn bằng AI.",
+  "requestFramePermissions": []
+}
